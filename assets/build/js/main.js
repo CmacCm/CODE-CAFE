@@ -3352,3 +3352,4 @@
 //# sourceMappingURL=toast.js.map
 
 // Импортируем другие js-файлы
+= my.js
